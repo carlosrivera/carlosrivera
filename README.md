@@ -2,10 +2,13 @@
   <img src="https://github.com/carlosrivera/carlosrivera/blob/master/assets/welcome.svg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img alt="My Name is Carlos Rivera and I'm a ML Developer" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/text.svg" />
+  <img alt="My Name is Carlos" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/name.svg" />
+  <br />
+  <img alt="I'm a DeVeLoPEr" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/developer.svg" />
   <br />
   <br />
-  <img height="50" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/construction.gif" /><img height="50" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/construction.gif" />
+  <br />
+  <img height="50" style="margin: 10px;" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/construction.gif" /><img height="50" style="margin: 10px;" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/construction.gif" />
   <br />
   <br />
   <img width="66%" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/underconstruction.gif" />
@@ -21,7 +24,7 @@
   <img alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/flamingline.gif" />
   <br />
   <img alt="Best with Nescape &copy;" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/fiexplorer.gif" />
-  <img alt="iexplorer" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/fiexplorer.gif" /><img alt="Counter" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/counter.gif" />
+  <img alt="iexplorer" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/iexplorer.gif" /><img alt="Counter" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/counter.gif" />
 </div>
 
 <!--
