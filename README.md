@@ -8,7 +8,7 @@
   <img height="50" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/construction.gif" /><img height="50" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/construction.gif" />
   <br />
   <br />
-  <img height="80" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/underconstruction.gif" />
+  <img width="66%" alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/underconstruction.gif" />
   <br />
   <br />
   <img alt="Baby" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/dancing_baby.gif" /><img alt="Baby" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/dancing_baby.gif" /><img alt="Baby" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/dancing_baby.gif" />
