@@ -4,7 +4,7 @@
   <br />
   <img alt="My Name is Carlos" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/name.svg" />
   <br />
-  <img alt="I'm a DeVeLoPEr" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/developer.svg" />
+  <img alt="I'm a DeVeLoPEr" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/develper.svg" />
   <br />
   <br />
   <br />
