@@ -2,8 +2,11 @@
   <img src="https://github.com/carlosrivera/carlosrivera/blob/master/assets/welcome.svg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img alt="My Name is Carlos" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/name.svg" />
   <br />
+  <br />
+  <br />
+  <br />
+  <img alt="My Name is Carlos" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/name.svg" />
   <img alt="I'm a DeVeLoPEr" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/develper.svg" />
   <br />
   <br />
@@ -24,7 +27,7 @@
   <img alt="Under Construction" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/flamingline.gif" />
   <br />
   <img alt="Best with Nescape &copy;" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/fiexplorer.gif" />
-  <img alt="iexplorer" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/iexplorer.gif" /><img alt="Counter" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/counter.gif" />
+  <img alt="iexplorer" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/Iexplorer.gif" /><img alt="Counter" src="https://raw.githubusercontent.com/carlosrivera/carlosrivera/master/assets/counter.gif" />
 </div>
 
 <!--
